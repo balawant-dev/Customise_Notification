@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "389534782073",
+    "project_id": "customnotification-e60ed",
+    "storage_bucket": "customnotification-e60ed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389534782073:android:4c22b39496ba0840653aa8",
+        "android_client_info": {
+          "package_name": "com.example.topper_notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiJr_kuHMdpj49VwBA3DBukvN_hIivxPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
